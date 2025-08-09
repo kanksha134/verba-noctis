@@ -79,7 +79,7 @@ mystical-quotes/
 - Optimized animations with CSS transforms
 - Efficient DOM manipulation with minimal reflows
 - Font preloading for smooth text rendering
-- Lazy loading of non-critical elements
+- Lazy loading of non-critical elements 
 - Compressed assets for faster loading
 
 ## 🎨 Design Inspiration
