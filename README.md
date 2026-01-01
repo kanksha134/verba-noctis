@@ -1,7 +1,7 @@
  ✨ One Quote a Day - Mystical Daily Wisdom ✨  
 
 A visually stunning, interactive website that delivers daily inspiration through carefully curated quotes with enchanting cosmic, witchy, and dark academia aesthetics. Experience the perfect blend of ancient mysticism and modern web design !!
-  
+
 ## 🌟 Features
 
 ### Core Functionality
