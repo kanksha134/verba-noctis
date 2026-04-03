@@ -38,6 +38,7 @@ A visually stunning, interactive website that delivers daily inspiration through
 - Rich browns and golden accents
 - Academic serif fonts
 - Minimized floating elements for focus
+- also an user-friendly interface with latest widgets
 
 ### File Structure
 ```
