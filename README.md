@@ -122,7 +122,7 @@ This project is open source and available under the MIT License. Free to use and
 - The Open Source Community for tools and inspiration
 
 ---
-
+   
 *"Magic is believing in yourself. If you can do that, you can make anything happen."* - Johann Wolfgang von Goethe
 
 **✨ May this mystical companion bring daily wisdom and inspiration to your journey ✨**
